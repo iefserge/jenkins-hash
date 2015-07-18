@@ -1,0 +1,27 @@
+{
+  "name": "jenkins-hash",
+  "version": "1.0.0",
+  "description": "Jenkins hash function",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:iefserge/jenkins-hash.git"
+  },
+  "keywords": [
+    "jenkins-hash",
+    "hash",
+    "jenkins"
+  ],
+  "author": "Sergii Iefremov <iefserge@runtimejs.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iefserge/jenkins-hash/issues"
+  },
+  "homepage": "https://github.com/iefserge/jenkins-hash",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  }
+}
